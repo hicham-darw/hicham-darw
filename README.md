@@ -8,14 +8,14 @@
 <div>
   <div>
     <p align="center" style="display: flex; justify-content: space-between; width: 100%;">
-      <!-- Streak stats -->
-    <img src="https://streak-stats.demolab.com/?user=hicham-darw&theme=github-dark-dimmed" />
+          <!-- Top languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-darw&hide_border=true&langs_count=6&theme=radical" />
     </p>
   </div>
   <div>
     <p align="center" style="display: flex; justify-content: space-between; width: 100%;">
-    <!-- Top languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-darw&hide_border=true&langs_count=6&theme=radical" />
+       <!-- Streak stats -->
+    <img src="https://streak-stats.demolab.com/?user=hicham-darw&theme=github-dark-dimmed" />
     </p>
   </div>
 </div>
