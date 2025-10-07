@@ -4,24 +4,25 @@
 **💪 Hicham Darw | Passionate Programmer | Lifelong Learner | Building Better Code**  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Building digital experiences with code & creativity  
 ---
----
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass Tilted Right" width="25" height="25" /> GitHub Stats
 
-<!-- TODO : I need to chose better colors ... Might be the same as my Website -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass" width="25" height="25" /> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hicham-darw&show_icons=true&rank_icon=github&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true" />
+  <!-- General GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hicham-darw&show_icons=true&hide_border=true&include_all_commits=true&theme=radical" />
+  
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahmane-mansir&hide_border=true&langs_count=6" />
+
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-darw&hide_border=true&langs_count=6&theme=radical" />
 </p>
 
 <p align="center">
- <img src="https://streak-stats.demolab.com/?user=hicham-darw&theme=github-dark-dimmed" />
- &nbsp;&nbsp;
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-darw&langs_count=8&layout=compact&bg_color=24292F&border_color=373E47&title_color=539BF5&text_color=ADBAC7" />
+  <!-- Streak stats -->
+  <img src="https://streak-stats.demolab.com/?user=hicham-darw&theme=github-dark-dimmed" />
 </p>
 
----
+----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Connect with Me  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" alt="Bell" width="25" height="25" /> 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hicham-elhamoudi)
