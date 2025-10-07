@@ -10,7 +10,7 @@
 <!-- TODO : I need to chose better colors ... Might be the same as my Website -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abderrahmane-mansir&show_icons=true&rank_icon=github&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hicham-darw&show_icons=true&rank_icon=github&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahmane-mansir&hide_border=true&langs_count=6" />
 </p>
