@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
- <img src="https://streak-stats.demolab.com/?user=abderrahmane-mansir&theme=github-dark-dimmed" />
+ <img src="https://streak-stats.demolab.com/?user=hicham-darw&theme=github-dark-dimmed" />
  &nbsp;&nbsp;
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahmane-mansir&langs_count=8&layout=compact&bg_color=24292F&border_color=373E47&title_color=539BF5&text_color=ADBAC7" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-darw&langs_count=8&layout=compact&bg_color=24292F&border_color=373E47&title_color=539BF5&text_color=ADBAC7" />
 </p>
 
 ---
