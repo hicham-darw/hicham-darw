@@ -3,3 +3,4 @@
 **👨‍💻 Hicham Darw | Passionate Backend Developer | PHP • SQL • Logic • Creativity**  
 **💪 Hicham Darw | Passionate Programmer | Lifelong Learner | Building Better Code**  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Building digital experiences with code & creativity  
+---
