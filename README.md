@@ -26,5 +26,5 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Connect with Me  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" alt="Bell" width="25" height="25" /> 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hicham-elhamoudi)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/hicham-darw)
-[![Email](https://skillicons.dev/icons?i=gmail)](hachemdarwin@gmail.com)<br/>
+[![Email](https://skillicons.dev/icons?i=gmail)](hachemdarwin@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dar23win_/)
