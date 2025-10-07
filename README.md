@@ -24,9 +24,7 @@
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Connect with Me  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" alt="Bell" width="25" height="25" /> 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/abderrahmane-mansir)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/abderrahmane-mansir)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:mansir.0.abderrahmane@gmail.com)<br/>
-[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/abderrahmane-mansir)<br/>
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AbderrahmaneMANSIR)<br/>
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MANSIR_Abde)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hicham-elhamoudi)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/hicham-darw)
+[![Email](https://skillicons.dev/icons?i=gmail)](hachemdarwin@gmail.com)<br/>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dar23win_/)
