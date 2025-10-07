@@ -4,17 +4,23 @@
 **💪 Hicham Darw | Passionate Programmer | Lifelong Learner | Building Better Code**  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Building digital experiences with code & creativity  
 ---
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass" width="25" height="25" /> GitHub Stats
 
 <p align="center">
-  <!-- Removed GitHub stats cards -->
+  <!-- General GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hicham-darw&show_icons=true&hide_border=true&include_all_commits=true&theme=radical" />
+  
+  &nbsp;&nbsp;
+
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-darw&hide_border=true&langs_count=6&theme=radical" />
 </p>
 
 <p align="center">
-  <!-- Removed streak stats -->
+  <!-- Streak stats -->
+  <img src="https://streak-stats.demolab.com/?user=hicham-darw&theme=github-dark-dimmed" />
 </p>
-----
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Connect with Me  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" alt="Bell" width="25" height="25" /> 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hicham-elhamoudi)
