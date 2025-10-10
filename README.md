@@ -7,7 +7,7 @@
 <p align="center">
   <a href="#">
     <img 
-      src="https://streak-stats.demolab.com/?user=hicham-darw&theme=github-dark-dimmed" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-darw&hide_border=true&langs_count=6&theme=radical" 
       width="48%" 
       valign="middle"
     />
@@ -15,7 +15,7 @@
   &nbsp;
   <a href="#">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-darw&hide_border=true&langs_count=6&theme=radical" 
+      src="https://streak-stats.demolab.com/?user=hicham-darw&theme=github-dark-dimmed" 
       width="48%" 
       valign="middle"
     />
