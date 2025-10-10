@@ -4,7 +4,7 @@
 **💪 Passionate Programmer | Lifelong Learner | Building Better Code**  
 ---
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass" width="25" height="25" /> GitHub Stats
-<div style="display: flex; flex-direction: column">
+<div style="display: flex; justify-content: space-between; align-items: center">
     <div>
         <p>
             <!-- Top languages -->
