@@ -26,6 +26,4 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hicham-elhamoudi)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/hicham-darw)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/dar23win_/)
-<a href="https://instagram.com/dar23win_/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="30" height="30" alt="Instagram" />
-</a>
+
