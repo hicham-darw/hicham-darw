@@ -5,7 +5,7 @@
 ---
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass" width="25" height="25" /> GitHub Stats
 <div align="center" style="width: 100%;">
-    <p>
+    <p style="width: 50%;">
           <!-- Top languages -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-darw&hide_border=true&langs_count=6&theme=radical" />
     </p>
