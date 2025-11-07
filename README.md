@@ -2,7 +2,7 @@
 **💻 Low-Level Thinker | C • Algorithms • Memory • Logic**  
 **👨‍💻 Passionate Backend Developer | PHP • SQL • Logic • Creativity**  
 **💪 Passionate Programmer | Lifelong Learner | Building Better Code**  
-**🎓 Currently studying at <a href="https://www.42network.org/" target="_blank">1337 School</a>, .<br>**  
+**🎓 Currently studying at <a href="https://www.42network.org/" target="_blank">1337 School</a>.<br>**  
 ---
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass" width="25" height="25" /> GitHub Stats
 <p align="center">
