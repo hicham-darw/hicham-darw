@@ -1,5 +1,5 @@
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Elhamoudi Hicham  
-**🧠 Low-Level Thinker | C • Algorithms • Memory • Logic**  
+**💻 Low-Level Thinker | C • Algorithms • Memory • Logic**  
 **👨‍💻 Passionate Backend Developer | PHP • SQL • Logic • Creativity**  
 **💪 Passionate Programmer | Lifelong Learner | Building Better Code**  
 ---
