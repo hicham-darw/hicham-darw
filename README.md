@@ -1,60 +1,98 @@
-# Hi 👋 I'm Elhamoudi Hicham
+# 👋 Hi, I'm hicham Elhamoudi
 
-> Low-Level Thinker • C • Algorithms • Memory • Logic
+**Backend Developer | Learning Systems Architecture | Exploring LLM Engineering**
 
-![profile card](./profile_card.svg)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-darw&hide_border=true&langs_count=6&theme=radical)](https://github.com/hicham-darw)
-[![Streak](https://streak-stats.demolab.com/?user=hicham-darw&theme=github-dark-dimmed)](https://github.com/hicham-darw)
+Passionate about backend development and understanding how systems work. Learning scalable architecture, API design, and building with LLMs. Driven by curiosity and the desire to build things right.
 
 ---
 
-## About Me
+## 📊 Activity & Stats
 
-- **Name:** Elhamoudi Hicham
-- **Roles:** Low-Level Thinker, Backend Developer, Passionate Programmer
-- **Stack:** C, Python, Rust, SQL, Algorithms
-- **School:** 1337 / 42 Network
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hicham-darw&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&hide=stars" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=hicham-darw&theme=dark&hide_border=true" height="180px"/>
+</div>
 
-## Skills & Technologies
-
-| Language / Tool | Proficiency |
-|---|---:|
-| ![C](https://skillicons.dev/icons?i=c) C | Advanced |
-| ![Python](https://skillicons.dev/icons?i=python) Python | Advanced |
-| ![Rust](https://skillicons.dev/icons?i=rust) Rust | Intermediate |
-| ![SQL](https://skillicons.dev/icons?i=mysql) SQL | Intermediate |
-| ![Git](https://skillicons.dev/icons?i=git) Git | Proficient |
-
-## Featured Project — Fly-In
-
-Fly-In is a drone routing and flow simulation that computes valid paths and simulates drone movement while respecting hub and edge capacities.
-
-Quickstart
-
-```bash
-make install
-python3 main.py maps/easy/01_linear_path.txt
-```
-
-Key components: `Parser.py`, `GraphBuilder.py`, `EdmondsKarpAlgo.py`, `DroneFlowEngine.py`, `Visualizer.py`.
-
-## Contact & Socials
-
-- LinkedIn: https://www.linkedin.com/in/hicham-elhamoudi
-- Instagram: https://instagram.com/dar23win_/
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hicham-darw&theme=dark&hide_border=true&bg_color=0d1117&line=58a6ff&point=79c0ff&area=true" width="100%"/>
+</div>
 
 ---
 
-## Personalization Tips
+## 💼 What I Work With
 
-- The hero GIF was removed and replaced by a compact profile card SVG (`profile_card.svg`).
-- If you'd prefer a different language list, I suggested `Rust` instead of `PHP` — I can revert or pick another language.
-- Replace the GitHub username in the badge URLs to keep stats live.
-- Add project screenshots or a short demo GIF under the Featured Project section.
+**Languages**
 
-If you want, I can:
+<div>
+  <img src="https://skillicons.dev/icons?i=python,c,php,bash,sql" />
+</div>
 
-- generate an animated GIF from the simulator output,
-- add CI/license/issue badges,
-- create a compact profile SVG with avatar and top languages (I already added a simple card).
+**Backend & APIs**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=fastapi,laravel,postgresql,mysql,nginx,docker" />
+</div>
+
+**Infrastructure & Tools**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,makefile" />
+</div>
+
+---
+
+## 🔍 Focus Areas
+
+### Backend & Systems
+- REST APIs & async programming
+- Multi-tenant SaaS architectures
+- JWT authentication & webhooks
+- Middleware systems & middleware chains
+- Low-level systems & concurrency patterns
+- Database design & optimization
+
+### AI/LLM Systems
+- LLM function calling & tool use
+- Constrained decoding & structured generation
+- Pydantic validation for LLM outputs
+- Understanding LLM internals & reasoning
+- Building with production LLM systems
+
+---
+
+## 🏗️ What I'm Learning
+
+Deeply interested in understanding the fundamentals:
+
+- **System design patterns** — how scalable systems are built
+- **Backend architecture** — REST APIs, async programming, middleware
+- **Concurrency & performance** — handling complexity elegantly
+- **LLM systems** — understanding how modern AI models work
+- **Database internals** — query optimization and data modeling
+
+I believe in learning by building and exploring real problems.
+
+---
+
+## 📚 Current Learning
+
+- Advanced LLM architecture and reasoning
+- Concurrent systems design patterns
+- Low-level performance optimization
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:hamoudihicham234@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/hachem-darwin)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/hicham-darw)
+</div>
+
+---
+
+<div align="center">
+  <p><em>Interested in backend systems, architecture design, and building things that scale.</em></p>
+</div>
