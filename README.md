@@ -1,29 +1,59 @@
-# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Elhamoudi Hicham  
-**💻 Low-Level Thinker | C • Algorithms • Memory • Logic**  
-**👨‍💻 Passionate Backend Developer | PHP • SQL • Logic • Creativity**  
-**💪 Passionate Programmer | Lifelong Learner | Building Better Code**  
-**🎓 Currently studying at <a href="https://www.42network.org/" target="_blank">1337 School</a>.<br>**  
+# Hi 👋 I'm Elhamoudi Hicham
+
+> Low-Level Thinker • C • Algorithms • Memory • Logic
+
+![hero gif](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-darw&hide_border=true&langs_count=6&theme=radical)](https://github.com/hicham-darw)
+[![Streak](https://streak-stats.demolab.com/?user=hicham-darw&theme=github-dark-dimmed)](https://github.com/hicham-darw)
+
 ---
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass" width="25" height="25" /> GitHub Stats
-<p align="center">
-  <a href="#">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-darw&hide_border=true&langs_count=6&theme=radical" 
-      width="48%" 
-      valign="middle"
-    />
-  </a>
-  &nbsp;
-  <a href="#">
-    <img 
-      src="https://streak-stats.demolab.com/?user=hicham-darw&theme=github-dark-dimmed" 
-      width="48%" 
-      valign="middle"
-    />
-  </a>
-</p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Contact Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" alt="Bell" width="25" height="25" /> 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hicham-elhamoudi)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/dar23win_/)
+## About Me
 
+- **Name:** Elhamoudi Hicham
+- **Roles:** Low-Level Thinker, Backend Developer, Passionate Programmer
+- **Stack:** C, Python, PHP, SQL, Algorithms
+- **School:** 1337 / 42 Network
+
+## Skills & Technologies
+
+| Language / Tool | Proficiency |
+|---|---:|
+| ![C](https://skillicons.dev/icons?i=c) C | Advanced |
+| ![Python](https://skillicons.dev/icons?i=python) Python | Advanced |
+| ![PHP](https://skillicons.dev/icons?i=php) PHP | Intermediate |
+| ![SQL](https://skillicons.dev/icons?i=mysql) SQL | Intermediate |
+| ![Git](https://skillicons.dev/icons?i=git) Git | Proficient |
+
+## Featured Project — Fly-In
+
+Fly-In is a drone routing and flow simulation that computes valid paths and simulates drone movement while respecting hub and edge capacities.
+
+Quickstart
+
+```bash
+make install
+python3 main.py maps/easy/01_linear_path.txt
+```
+
+Key components: `Parser.py`, `GraphBuilder.py`, `EdmondsKarpAlgo.py`, `DroneFlowEngine.py`, `Visualizer.py`.
+
+## Contact & Socials
+
+- LinkedIn: https://www.linkedin.com/in/hicham-elhamoudi
+- Instagram: https://instagram.com/dar23win_/
+
+---
+
+## Personalization Tips
+
+- Update the GIF URL to a personalized image or GIF.
+- Replace the GitHub username in the badge URLs to keep stats live.
+- Add project screenshots or a short demo GIF under the Featured Project section.
+
+If you want, I can:
+
+- generate an animated GIF from the simulator output,
+- add CI/license/issue badges,
+- create a compact profile SVG with avatar and top languages.
